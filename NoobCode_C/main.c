@@ -16,7 +16,7 @@ int plus(int a,int b){
 }
 int main(int argc, const char * argv[]) {
     //    int a,b;
-        printf("Hello, World!\n");
+    //    printf("Hello, World!\n");
     //    printf("%d\n",plus(1, 1));
     //    char *hello="hello";
     //    printf("%s\n",hello);
